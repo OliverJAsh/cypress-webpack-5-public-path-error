@@ -1,4 +1,4 @@
-() => import('./lazy');
+() => import("./lazy.cy");
 
 describe("foo", () => {
     it("works", () => {});

@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@cypress/webpack-preprocessor": "^5.9.1",
-    "cypress": "^8.5.0",
+    "@cypress/webpack-preprocessor": "^5.12.2",
+    "cypress": "^10.9.0",
     "webpack": "^5.58.1"
   }
 }

@@ -3,5 +3,5 @@
 ```bash
 yarn
 
-cypress run --spec cypress/integration/example.test.js
+cypress run --spec cypress/e2e/example.cy.js
 ```
